@@ -1,6 +1,7 @@
 
 alert("JavaScript is working");
-var h = document.getElementById("title").style.color = "blue";
+var h = document.getElementById("title").style.color = "#4faad1";
+
 
 // Top is working
 
